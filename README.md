@@ -14,4 +14,4 @@ Mathematical Rigor & Real-Time Lower-Limb Exoskeleton Control Log
   - `f = f + 2` 형태의 누적 연산 시 발생하는 값 발산 위험 차단 (`f = 0` 기본값 기반 정적 할당으로 수정).
   - 수학 방정식과 프로그래밍 대입문의 차이 인식: `motor_torque = f * l`이 조건문 위에 위치할 때 갱신된 $f$가 누락되는 문제를 확인하고 조건문 최하단으로 재배치.
 * **Next Task:**
-  - 고정된 `peak` 상수를 대체할 실시간 극값(속도 영점 교차) 감지 로직 추가.
+  - 고정된 `peak` 상수를 어떻게 해야 할지 고민임 ㅠㅠ.
