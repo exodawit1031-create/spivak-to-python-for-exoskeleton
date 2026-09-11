@@ -15,3 +15,7 @@ Mathematical Rigor & Real-Time Lower-Limb Exoskeleton Control Log
   - 수학 방정식과 프로그래밍 대입문의 차이 인식: `motor_torque = f * l`이 조건문 위에 위치할 때 갱신된 $f$가 누락되는 문제를 확인하고 조건문 최하단으로 재배치.
 * **Next Task:**
   - 고정된 `peak` 상수를 어떻게 해야 할지 고민임 ㅠㅠ.
+### 2026-09-11
+*Added new knowledge that triangle inequality
+*so i try to detect error that new knowledge is used
+*But today i fail to adopt for dection error
